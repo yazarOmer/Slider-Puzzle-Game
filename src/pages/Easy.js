@@ -12,6 +12,7 @@ const Easy = () => {
                 tile_count = {TILE_COUNT}
                 board_size = {BOARD_SIZE}
                 grid_size = {GRID_SIZE}
+                imgUrl = {null}
             />
         </div>
   )
